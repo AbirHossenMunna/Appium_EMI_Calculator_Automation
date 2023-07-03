@@ -1,1 +1,0 @@
-{"uuid":"4ba36a7c-b4de-42cf-b780-703cbd7a2915","name":"emiCalculator","children":["5fcdb370-0726-4c21-9bc2-20511ad8d005"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1688377565165,"stop":1688377585934}],"afters":[],"start":1688377565150,"stop":1688377588985}
