@@ -4,7 +4,7 @@
 
 Here the following tasks are done:
 
-* An EMI Calculator app extracted from EMI calculator is automated by extracting its apk.
+* An EMI Calculator app extracted from [EMI calculator](https://play.google.com/store/apps/details?id=com.continuum.emi.calculator&hl=en&gl=US) is automated by extracting its apk.
 * Basic operations like add,subtract,multiplication and divide functionality is checked whether it is giving correct result or not using Appium.
 * The monthly EMI,total interest ,processing fee and total payment generated are matched with the expected data provided in the dataset.
 * Different data is tested where user gives Amount,Interest,Period and Processing fee and hits Calculate button.
