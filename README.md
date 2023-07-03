@@ -1,6 +1,6 @@
 # Appium_EMI_Calculator_Automation
 
-### An EMI calculator is automated by testing with varities of datasets and whether it gives correct results with correct data.Appium is utilized on an emulated device powered by Android Studio.
+### An [EMI calculator](https://play.google.com/store/apps/details?id=com.continuum.emi.calculator&hl=en&gl=US) is automated by testing with varities of datasets and whether it gives correct results with correct data.Appium is utilized on an emulated device powered by Android Studio.
 
 Here the following tasks are done:
 
